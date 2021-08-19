@@ -6,9 +6,8 @@ Xanpool assignment front-end application.
 
 2. configure API url at Api.tsx file ( ex. apiUrl = 'http://localhost:5000/api/book')
 
-3. `npm start`
+3. Run `npm start` on terminal.
 
 ## Runs the app in the development mode.
 
 4. Open [http://localhost:3000] to view it in the browser.
-
